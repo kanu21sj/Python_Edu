@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data01/.idea/data01.iml" filepath="$PROJECT_DIR$/../data01/.idea/data01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data02/.idea/data02.iml" filepath="$PROJECT_DIR$/../data02/.idea/data02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data03.iml" filepath="$PROJECT_DIR$/.idea/data03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data04/.idea/data04.iml" filepath="$PROJECT_DIR$/../data04/.idea/data04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data0506/.idea/data0506.iml" filepath="$PROJECT_DIR$/../data0506/.idea/data0506.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data07/.idea/data07.iml" filepath="$PROJECT_DIR$/../data07/.idea/data07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data08/.idea/data08.iml" filepath="$PROJECT_DIR$/../data08/.idea/data08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../day01/.idea/day01.iml" filepath="$PROJECT_DIR$/../../../day01/.idea/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../day03/.idea/day03.iml" filepath="$PROJECT_DIR$/../../day03/.idea/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git_install/.idea/git_install.iml" filepath="$PROJECT_DIR$/../git_install/.idea/git_install.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_study/.idea/python_study.iml" filepath="$PROJECT_DIR$/../python_study/.idea/python_study.iml" />
+    </modules>
+  </component>
+</project>
